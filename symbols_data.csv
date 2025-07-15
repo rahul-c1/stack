@@ -1,4 +1,4 @@
 "name","layers","color"
 "TSLA","sma50;trl_flip;gap_over;bsl_hold;high_volume","green"
 "NVDA","trl_breakout;sma20;dtl_breakout;bear_flag","green"
-"OKLO","utl_breakout;bsl_hold;gap_over;high_volume","green"
+"OKLO","gap_over;high_volume","blue"
